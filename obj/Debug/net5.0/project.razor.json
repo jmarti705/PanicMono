@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1706785654,
-        "Kind": "Components.Component",
-        "Name": "PanicMono.Pages.Counter",
-        "AssemblyName": "PanicMono",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1507295447,
-        "Kind": "Components.Component",
-        "Name": "PanicMono.Pages.Counter",
-        "AssemblyName": "PanicMono",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PanicMono.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 165459027,
         "Kind": "Components.Component",
         "Name": "PanicMono.Pages.FetchData",
@@ -111,88 +78,35 @@
         }
       },
       {
-        "HashCode": 919320326,
+        "HashCode": -1706785654,
         "Kind": "Components.Component",
-        "Name": "PanicMono.App",
+        "Name": "PanicMono.Pages.Counter",
         "AssemblyName": "PanicMono",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.App"
+          "Common.TypeName": "PanicMono.Pages.Counter"
         }
       },
       {
-        "HashCode": -565363471,
+        "HashCode": 1507295447,
         "Kind": "Components.Component",
-        "Name": "PanicMono.App",
+        "Name": "PanicMono.Pages.Counter",
         "AssemblyName": "PanicMono",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "PanicMono.App"
+            "TagName": "PanicMono.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -980217969,
-        "Kind": "Components.Component",
-        "Name": "PanicMono.Shared.SurveyPrompt",
-        "AssemblyName": "PanicMono",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1695566109,
-        "Kind": "Components.Component",
-        "Name": "PanicMono.Shared.SurveyPrompt",
-        "AssemblyName": "PanicMono",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PanicMono.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PanicMono.Shared.SurveyPrompt",
+          "Common.TypeName": "PanicMono.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,6 +236,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "PanicMono.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -980217969,
+        "Kind": "Components.Component",
+        "Name": "PanicMono.Shared.SurveyPrompt",
+        "AssemblyName": "PanicMono",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PanicMono.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1695566109,
+        "Kind": "Components.Component",
+        "Name": "PanicMono.Shared.SurveyPrompt",
+        "AssemblyName": "PanicMono",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PanicMono.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PanicMono.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 919320326,
+        "Kind": "Components.Component",
+        "Name": "PanicMono.App",
+        "AssemblyName": "PanicMono",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PanicMono.App"
+        }
+      },
+      {
+        "HashCode": -565363471,
+        "Kind": "Components.Component",
+        "Name": "PanicMono.App",
+        "AssemblyName": "PanicMono",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PanicMono.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PanicMono.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
